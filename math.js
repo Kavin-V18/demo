@@ -12,7 +12,7 @@ function divide(a,b) {
 }
 
 let result=multiply(10,20)
-console.log(result)
+console.log(resu)
 
 add(10,20)
 sub(10,20)
