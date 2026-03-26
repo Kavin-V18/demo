@@ -5,3 +5,5 @@ let lastname="kohli"
   console.log(firstname.trim())
 
   console,log(firstname.split("").reverse().join(""))
+
+  console.log(firstname)
